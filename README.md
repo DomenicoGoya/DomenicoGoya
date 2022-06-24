@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DomenicoGoya
 - 👀 I’m interested in computers.
-- 🌱 I’m currently learning flutter, javascript and node.js
+- 🌱 I’m currently learning python, javascript and node.js
 - 💞️ I’m looking to collaborate on small projects.
 - 📫 How to reach me: domenicogoyadevelop@gmail.com
 
